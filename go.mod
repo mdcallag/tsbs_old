@@ -9,6 +9,7 @@ require (
 	github.com/filipecosta90/hdrhistogram v0.0.0-20191025144016-6360d1757d33
 	github.com/globalsign/mgo v0.0.0-20181015135952-eeefdecb41b8
 	github.com/go-ole/go-ole v1.2.4 // indirect
+	github.com/go-sql-driver/mysql v1.4.0
 	github.com/gocql/gocql v0.0.0-20190810123941-df4b9cc33030
 	github.com/google/flatbuffers v1.11.0
 	github.com/google/go-cmp v0.3.1
